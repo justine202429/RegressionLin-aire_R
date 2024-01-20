@@ -8,6 +8,8 @@ Problème : Déterminer un modèle expliquant la circonférence abdominale en fo
 
 Conclusion : Fournir une synthèse concise de l'étude, en spécifiant d'éventuelles limitations.
 
+------------- ENGLISH VERSION -------------
+
 Introduction: In the given context, the data file "data_imc.txt" contains health information for 60 individuals in the United States, representing the American population. The study focuses on overweight and obesity, considering the Body Mass Index (BMI) as a standard to assess associated health risks. The World Health Organization (WHO) defines BMI intervals: < 25 for normal weight, 25 ≤ BMI < 30 for overweight, and BMI ≥ 30 for obesity. Additionally, a waist circumference above 94 cm for men and 80 cm for women is considered a predictor of heart diseases and type 2 diabetes. The variables in this project include GENDER, AGE, HEIGHT, WAIST, CHOL, and BMI classes.
 
 Part 1: Simple Linear Regression
